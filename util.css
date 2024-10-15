@@ -1,0 +1,23 @@
+.flex {
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.space-evenly{
+    justify-content: space-evenly;
+}
+.space-around {
+    justify-items: space-around;
+}
+
+.items-centre{
+    align-items: center;
+}
+
+.icons{
+    margin: 0px 10px;
+    height: 100%;
+}
